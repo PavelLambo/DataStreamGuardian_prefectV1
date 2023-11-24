@@ -117,8 +117,8 @@ def process_files():
 with Flow("CICD Flow") as flow:
     process_files()
 
-f_state = flow.run()
+# f_state = flow.run()
 # Uncomment the next line to assert that the flow run is successful
 # assert f_state.is_successful()
 
-flow.register(project_name="frequent")
+# flow.register(project_name="frequent")
