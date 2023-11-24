@@ -1,6 +1,6 @@
 # DataStreamGuardian_prefectV1
 ## Overview
-DataStreamGuardian_prefectV1 is a project designed to orchestrate and monitor ETL processes using Prefect v1. It emphasizes on maintaining data integrity and automating the CI/CD (Continuous Integration/Continuous Deployment) process for data pipelines. The core component of this project is CICD_Flow.py, which is responsible for managing and deploying updates to ETL scripts in a controlled and efficient manner.
+DataStreamGuardian_prefectV1 is a project designed to orchestrate and monitor ETL processes using Prefect v1. It emphasizes on maintaining data integrity and automating the CI/CD (Continuous Integration/Continuous Deployment) process for Prefect v1.0 data pipelines. The core component of this project is CICD_Flow.py, which is responsible for managing and deploying updates to ETL scripts in a controlled and efficient manner.
 
 ## Features
 ### Automated ETL Pipeline Management: Automates the deployment of ETL scripts, ensuring consistency and reliability in data processing.
